@@ -53,6 +53,9 @@ Other Skills: **NumPy, Scikit-learn, Snowflake, PostgreSQL**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trinaygangisetty&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trinaygangisetty&layout=compact&theme=radical)  
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trinaygangisetty" alt="trinaygangisetty" /></a> </p>
+
 ---
 
 ## 📊 LeetCode Stats
