@@ -67,7 +67,7 @@ Other Skills: **NumPy, Scikit-learn, Snowflake, PostgreSQL**
 
 📩 [trinay.gangisetty@colorado.edu](mailto:trinay.gangisetty@colorado.edu)  
 🔗 [LinkedIn](https://www.linkedin.com/in/trinay-g-725343197/)  
-💻 [GitHub](https://github.com/trinaygangisetty) 
+💻 [GitHub](https://github.com/trinaygangisetty)  
 🌐 [Portfolio](https://trinaygangisetty.github.io/Trinay-Portfolio-Website/#)
 
 Thanks for visiting! 🚀 Let's build something awesome together!
